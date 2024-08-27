@@ -1,4 +1,4 @@
-# This is the comment
+
 def areBracketsBalanced(expr):
     stack = []
 
